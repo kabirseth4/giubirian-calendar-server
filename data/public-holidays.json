@@ -1,5 +1,29 @@
 {
-  "england-and-wales": [
+  "EW": [
+    {
+      "title": "Good Friday",
+      "date": "2023-04-07"
+    },
+    {
+      "title": "Easter Monday",
+      "date": "2023-04-10"
+    },
+    {
+      "title": "Early May bank holiday",
+      "date": "2023-05-01"
+    },
+    {
+      "title": "Bank holiday for the coronation of King Charles III",
+      "date": "2023-05-08"
+    },
+    {
+      "title": "Spring bank holiday",
+      "date": "2023-05-29"
+    },
+    {
+      "title": "Summer bank holiday",
+      "date": "2023-08-28"
+    },
     {
       "title": "Good Friday",
       "date": "2024-03-29"
@@ -61,7 +85,39 @@
       "date": "2026-08-31"
     }
   ],
-  "scotland": [
+  "SC": [
+    {
+      "title": "2nd January",
+      "date": "2023-01-03"
+    },
+    {
+      "title": "Good Friday",
+      "date": "2023-04-07"
+    },
+    {
+      "title": "Early May bank holiday",
+      "date": "2023-05-01"
+    },
+    {
+      "title": "Bank holiday for the coronation of King Charles III",
+      "date": "2023-05-08"
+    },
+    {
+      "title": "Spring bank holiday",
+      "date": "2023-05-29"
+    },
+    {
+      "title": "Summer bank holiday",
+      "date": "2023-08-07"
+    },
+    {
+      "title": "St Andrew’s Day",
+      "date": "2023-11-30"
+    },
+    {
+      "title": "2nd January",
+      "date": "2024-01-02"
+    },
     {
       "title": "Good Friday",
       "date": "2024-03-29"
@@ -131,7 +187,43 @@
       "date": "2026-11-30"
     }
   ],
-  "northern-ireland": [
+  "NI": [
+    {
+      "title": "St Patrick’s Day",
+      "date": "2023-03-17"
+    },
+    {
+      "title": "Good Friday",
+      "date": "2023-04-07"
+    },
+    {
+      "title": "Easter Monday",
+      "date": "2023-04-10"
+    },
+    {
+      "title": "Early May bank holiday",
+      "date": "2023-05-01"
+    },
+    {
+      "title": "Bank holiday for the coronation of King Charles III",
+      "date": "2023-05-08"
+    },
+    {
+      "title": "Spring bank holiday",
+      "date": "2023-05-29"
+    },
+    {
+      "title": "Battle of the Boyne (Orangemen’s Day)",
+      "date": "2023-07-12"
+    },
+    {
+      "title": "Summer bank holiday",
+      "date": "2023-08-28"
+    },
+    {
+      "title": "St Patrick’s Day",
+      "date": "2024-03-18"
+    },
     {
       "title": "Good Friday",
       "date": "2024-03-29"

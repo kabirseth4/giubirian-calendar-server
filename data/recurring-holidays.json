@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Christmas Day",
+    "date": "12-25"
+  },
+  {
+    "title": "Boxing Day",
+    "date": "12-26"
+  },
+  {
+    "title": "Old New Year's Day",
+    "date": "01-01"
+  },
+  {
+    "title": "Valentine's Day",
+    "date": "02-14"
+  },
+  {
+    "title": "Halloween",
+    "date": "10-31"
+  },
+  {
+    "title": "Guy Fawkes Night",
+    "date": "11-05"
+  },
+  {
+    "title": "Remembrance day",
+    "date": "11-11"
+  }
+]
